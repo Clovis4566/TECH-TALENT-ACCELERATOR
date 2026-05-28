@@ -1,0 +1,17 @@
+[
+    {
+        "Nom_Technologie":"Automate Programmable",
+        "Cat\u00e9gorie":"Automatisme",
+        "Priorit\u00e9_\u00c9tude":1
+    },
+    {
+        "Nom_Technologie":"Panneau Photovolta\u00efque",
+        "Cat\u00e9gorie":"\u00c9nergie",
+        "Priorit\u00e9_\u00c9tude":1
+    },
+    {
+        "Nom_Technologie":"R\u00e9seau de Neurones",
+        "Cat\u00e9gorie":"Intelligence Artificielle",
+        "Priorit\u00e9_\u00c9tude":2
+    }
+]
